@@ -1,0 +1,10 @@
+{
+  "timeZone": "Europe/Budapest",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/tagmanager.readonly",
+    "https://www.googleapis.com/auth/analytics.edit",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
